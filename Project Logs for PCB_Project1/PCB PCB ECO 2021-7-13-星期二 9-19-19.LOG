@@ -1,0 +1,6 @@
+Change Component Comment : Designator=D04-1GRE Old Comment=GRE LED1 New Comment=GRE
+Change Component Comment : Designator=D04-2RED Old Comment=RED LED2 New Comment=RED
+Change Component Designator: OldDesignator=D04-1GRE NewDesignator=D04-1
+Change Component Designator: OldDesignator=D04-2RED NewDesignator=D04-2
+Change Net Name : Old Net Name=NetD04-1GRE_1 New Net Name=NetD04-1_1
+Change Net Name : Old Net Name=NetD04-2RED_1 New Net Name=NetD04-2_1
